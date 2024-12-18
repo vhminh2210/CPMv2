@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ### Results and Discussion
 
 - **Original CPM Reproduction**: The original CPM model has been successfully reproduced with library-related bugs fixed.
-- **UV-Position Transformation**: Preliminary experiments show potential improvements in makeup consistency across varied poses. Further investigations are needed to refine the performance and address limitations.
+- **UV-Position Transformation**: Preliminary experiments show that the method needs to be studied more to bring improvements to makeup consistency across varied poses. Further investigations are needed to refine the performance and address limitations.
 
 ## Acknowledgments
 
